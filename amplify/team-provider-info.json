@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mycomedy-dev-162921-authRole",
+            "UnauthRoleArn": "arn:aws:iam::577413646107:role/amplify-mycomedy-dev-162921-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::577413646107:role/amplify-mycomedy-dev-162921-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-mycomedy-dev-162921-deployment",
+            "UnauthRoleName": "amplify-mycomedy-dev-162921-unauthRole",
+            "StackName": "amplify-mycomedy-dev-162921",
+            "StackId": "arn:aws:cloudformation:us-east-1:577413646107:stack/amplify-mycomedy-dev-162921/edd0f740-1745-11ec-8b21-0a7e7ad373fb",
+            "AmplifyAppId": "d23u4748tw57o4"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d23u4748tw57o4",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
